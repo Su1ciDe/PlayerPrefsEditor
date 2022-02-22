@@ -5,7 +5,7 @@ using System.IO;
 using UnityEditor;
 using UnityEngine;
 
-namespace VP.Nest.System.Editor.PlayerPrefsEditor
+namespace PlayerPrefsEditor
 {
 	public static class PlayerPrefsExtension
 	{

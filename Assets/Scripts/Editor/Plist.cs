@@ -31,7 +31,7 @@ using System.Collections;
 using System.Globalization;
 using System.Collections.Generic;
 
-namespace VP.Nest.System.Editor.PlayerPrefsEditor
+namespace PlayerPrefsEditor
 {
 	public static class Plist
 	{

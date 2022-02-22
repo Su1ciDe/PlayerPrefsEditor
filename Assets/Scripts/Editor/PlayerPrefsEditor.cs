@@ -8,7 +8,7 @@ using UnityEditor;
 using UnityEngine;
 
 // CREDITS: https://forum.unity.com/threads/editor-utility-player-prefs-editor-edit-player-prefs-inside-the-unity-editor.370292/
-namespace VP.Nest.System.Editor.PlayerPrefsEditor
+namespace PlayerPrefsEditor
 {
 	public class PlayerPrefsEditor : EditorWindow
 	{
