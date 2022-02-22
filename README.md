@@ -1,0 +1,2 @@
+# PlayerPrefsEditor
+Edit -> Player Prefs
